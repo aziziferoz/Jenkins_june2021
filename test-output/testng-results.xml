@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12811" started-at="2021-10-26T20:02:15 CDT" finished-at="2021-10-26T20:02:28 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12811" started-at="2021-10-26T20:02:15 CDT" finished-at="2021-10-26T20:02:28 CDT">
+      <class name="Test_Page.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_Page.LoginPageTest@458c1321]" name="setUp" is-config="true" duration-ms="3748" started-at="2021-10-26T20:02:15 CDT" finished-at="2021-10-26T20:02:19 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Test_Page.LoginPageTest@458c1321]" name="loginTest" duration-ms="2559" started-at="2021-10-26T20:02:19 CDT" finished-at="2021-10-26T20:02:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test_Page.LoginPageTest@458c1321]" name="tearDown" is-config="true" duration-ms="761" started-at="2021-10-26T20:02:22 CDT" finished-at="2021-10-26T20:02:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_Page.LoginPageTest@458c1321]" name="setUp" is-config="true" duration-ms="2892" started-at="2021-10-26T20:02:22 CDT" finished-at="2021-10-26T20:02:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pageTitleTest()[pri:0, instance:Test_Page.LoginPageTest@458c1321]" name="pageTitleTest" duration-ms="2081" started-at="2021-10-26T20:02:25 CDT" finished-at="2021-10-26T20:02:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test_Page.LoginPageTest@458c1321]" name="tearDown" is-config="true" duration-ms="729" started-at="2021-10-26T20:02:27 CDT" finished-at="2021-10-26T20:02:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Page.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
